@@ -1,0 +1,13 @@
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+[Bb]in/
+[Oo]bj/
+_ReSharper.*/
+*.Resharper
+*.suo
+*.sln.cache
+*.orig
+*.user
+*.crunchsolution.local.xml
+*.crunchsolution.cache
